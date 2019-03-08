@@ -1,2 +1,2 @@
 # Machine_Learning
-My Machine Learning exercises and code portfolio
+My Machine Learning exercises and code portfolios
